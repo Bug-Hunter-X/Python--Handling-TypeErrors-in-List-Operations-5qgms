@@ -1,0 +1,1 @@
+This repository demonstrates a common Python error and its solution. The file 'bug.py' shows code that produces a TypeError when it attempts to sum a list containing both numbers and a string. The 'bugSolution.py' file provides a robust solution that handles this error gracefully.
